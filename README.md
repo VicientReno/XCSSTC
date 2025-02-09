@@ -1,0 +1,1 @@
+此為eXtended Classifier System with Sensory Tag Condition (XCSSTC)，參考Minato Sato所寫XCS版本進行改寫(https://github.com/hogefugabar/XCS )，主要是將classifeir的條件從三字母{0, 1, #}修改為字典{(key, value)}方式表達，程式範例是採用Learning Classifier System(LCS)中著名的玩具問題Multiplexer進行測試。
